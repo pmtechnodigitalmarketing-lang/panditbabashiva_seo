@@ -1,0 +1,179 @@
+========================================
+6-MONTH SEO EXECUTION PLAN (STEP-BY-STEP)
+========================================
+
+This document explains how to execute SEO daily and weekly in a practical way.
+Follow this process consistently for 6 months to see strong ranking and traffic growth.
+
+----------------------------------------
+DAILY SEO ROUTINE (5–15 MINUTES)
+----------------------------------------
+
+Every day, start with a quick SEO health check.
+
+First, check your keyword rankings using tools like Ahrefs or SERP Robot.
+Look at your main keywords and see if any have dropped in position.
+If you notice a drop, mark that keyword and page for optimization later.
+
+Next, open Google Search Console and check clicks and impressions.
+If clicks are decreasing but impressions are stable, it means your CTR is low.
+This indicates that your title or meta description needs improvement.
+
+Then, check for new backlinks in Ahrefs.
+If you gained new links, review their quality.
+If they are good links, note what strategy worked so you can repeat it.
+
+After that, go to the Coverage section in Google Search Console.
+Check if there are any indexing or crawl errors.
+Fix these immediately because they can directly affect rankings.
+
+Now check your leads or conversions in GA4 or your CRM.
+Track how many calls, form submissions, or conversions came from organic traffic.
+This helps you understand if SEO is generating real business results.
+
+Finally, check a few competitor keywords.
+If competitors are improving their rankings, analyze what they changed.
+
+----------------------------------------
+WEEKLY SEO EXECUTION PLAN
+----------------------------------------
+
+Each week has a specific focus. Repeat this cycle every month.
+
+----------------------------------------
+WEEK 1: DATA ANALYSIS AND PLANNING
+----------------------------------------
+
+Start the week by analyzing your SEO performance.
+
+Check your keyword rankings and focus on your top 20 important keywords.
+See which keywords improved and which dropped.
+
+Then go to Google Search Console and analyze queries.
+Look for keywords that have high impressions but low CTR.
+These are easy opportunities to gain more traffic by improving titles.
+
+Next, identify pages that are getting impressions but not clicks.
+Update their meta titles and descriptions to make them more attractive.
+
+Analyze competitor backlinks using Ahrefs.
+Find where they are getting links from and create a list of sites for outreach.
+
+Check your internal linking structure using Screaming Frog.
+Ensure important pages (like service pages) are getting enough internal links.
+
+Finally, plan what content needs to be updated or created this month.
+
+----------------------------------------
+WEEK 2: CONTENT OPTIMIZATION
+----------------------------------------
+
+This week is focused on improving your existing content.
+
+Start by updating at least 2 blog posts.
+Improve content quality, add keywords, and increase content depth.
+
+Add FAQ sections to your pages.
+This helps you rank for featured snippets and increases visibility.
+
+Improve headings (H1, H2, H3) using semantic keywords.
+Make sure your content matches search intent.
+
+Add internal links from blogs to your main service or pillar pages.
+This improves authority flow across your site.
+
+Optimize all images by compressing them and adding ALT text with keywords.
+This helps with image SEO and page speed.
+
+----------------------------------------
+WEEK 3: BACKLINK BUILDING
+----------------------------------------
+
+This week focuses on increasing your website authority.
+
+Start outreach for guest posting.
+Send emails to relevant websites in your niche asking for content collaboration.
+
+Build niche edit backlinks by finding relevant articles and getting your links added.
+
+Submit your website to directories and citation sites.
+This is especially important for local SEO.
+
+Answer questions on platforms like Quora and Reddit.
+Provide helpful answers and include your website link where relevant.
+
+Check all backlinks you gained.
+Make sure they are from good quality sites (high DR).
+
+----------------------------------------
+WEEK 4: SERP OPTIMIZATION AND GROWTH
+----------------------------------------
+
+This week is focused on improving click-through rate and visibility.
+
+Start by optimizing meta titles.
+Make them more engaging and include power words.
+
+Update meta descriptions to improve CTR.
+Add clear benefits and calls-to-action.
+
+Search for featured snippet opportunities.
+Try to structure your content in a way that answers questions clearly.
+
+Add FAQ schema to pages.
+This helps your content appear as rich results in Google.
+
+Finally, review your organic traffic in GA4.
+Check if traffic is increasing and which pages are performing best.
+
+----------------------------------------
+MONTHLY CONTENT STRATEGY
+----------------------------------------
+
+Each month, follow this publishing plan:
+
+Week 1: Publish 1 new blog post targeting a primary keyword  
+Week 2: Update 2 old blog posts  
+Week 3: Publish 1 cluster article (supporting content)  
+Week 4: Update your main pillar page  
+
+----------------------------------------
+SIMPLE WEEKLY WORKFLOW
+----------------------------------------
+
+Monday:
+Analyze rankings and review Google Search Console data.
+
+Tuesday:
+Update and improve existing content.
+
+Wednesday:
+Work on internal linking.
+
+Thursday:
+Focus on backlink outreach.
+
+Friday:
+Optimize titles, descriptions, and SERP appearance.
+
+Saturday:
+Publish new blog content.
+
+Sunday:
+Review overall SEO performance and plan next week.
+
+----------------------------------------
+FINAL RESULT AFTER 6 MONTHS
+----------------------------------------
+
+If you follow this process consistently:
+
+- Your keyword rankings will improve (Top 10 positions)
+- Organic traffic will increase steadily
+- Your website authority will grow
+- You will generate more leads and conversions
+- Your SEO process will become predictable and scalable
+
+========================================
+END OF DOCUMENT
+========================================

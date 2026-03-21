@@ -1,0 +1,240 @@
+SEO COMPETITOR ANALYSIS (STEP-BY-STEP)
+========================================
+
+This document explains how to analyze 10 competitor websites in detail.
+The goal is to understand why they rank and how to beat them.
+
+----------------------------------------
+STEP 1: SELECT YOUR COMPETITORS
+----------------------------------------
+
+Start by identifying 10 competitors.
+
+Go to Google and search your main keyword (example: "astrologer in Florida").
+
+Select the top 10 ranking websites (ignore ads).
+These are your real SEO competitors.
+
+Also use tools like Ahrefs or SEMrush:
+- Enter your domain
+- Go to "Organic Competitors"
+- Export top competitors list
+
+Now you have 10 competitor websites to analyze.
+
+----------------------------------------
+STEP 2: CREATE A TRACKING SHEET
+----------------------------------------
+
+Create a spreadsheet with the following columns:
+
+- Competitor Website URL
+- Domain Age
+- Total Backlinks
+- Referring Domains
+- Top Keywords
+- Word Count (Main Page)
+- Page Speed Score
+- Content Quality Score
+- Internal Links Count
+- Schema Usage
+- On-Page SEO Score
+
+You will fill this data for each competitor.
+
+----------------------------------------
+STEP 3: ANALYZE DOMAIN AGE
+----------------------------------------
+
+Use tools like:
+- Whois Lookup
+- Ahrefs
+
+Check when the domain was registered.
+
+Older domains usually have more authority.
+If competitors are very old, you will need stronger backlinks and content.
+
+----------------------------------------
+STEP 4: ANALYZE BACKLINK PROFILE
+----------------------------------------
+
+Use Ahrefs or SEMrush.
+
+Check:
+- Total backlinks
+- Referring domains
+- Domain Rating (DR)
+
+Focus more on referring domains than total backlinks.
+
+Now analyze:
+- Where are they getting links from?
+- Are they using guest posts, directories, or blogs?
+
+Make a list of backlink sources you can target.
+
+----------------------------------------
+STEP 5: ANALYZE KEYWORDS
+----------------------------------------
+
+Open Ahrefs → Organic Keywords section.
+
+Check:
+- Top ranking keywords
+- Keyword positions
+- Traffic keywords
+
+Identify:
+- High traffic keywords
+- Low competition keywords (easy wins)
+- Keywords where competitor ranks 5–15 (you can outrank them)
+
+Export keyword list and plan content around it.
+
+----------------------------------------
+STEP 6: ANALYZE WORD COUNT & CONTENT DEPTH
+----------------------------------------
+
+Open competitor pages manually.
+
+Check:
+- Word count (use Chrome extensions or SEO tools)
+- Content structure
+- Topic coverage
+
+Ask:
+- Is content short or detailed?
+- Do they answer all user questions?
+- Are FAQs included?
+
+Goal:
+Create content that is better, longer, and more helpful.
+
+----------------------------------------
+STEP 7: ANALYZE PAGE SPEED
+----------------------------------------
+
+Use:
+- Google PageSpeed Insights
+
+Check:
+- Mobile speed score
+- Desktop speed score
+
+Important factors:
+- Image optimization
+- Loading time
+- Core Web Vitals
+
+If competitors are slow, you can beat them with faster pages.
+
+----------------------------------------
+STEP 8: ANALYZE ON-PAGE SEO
+----------------------------------------
+
+Check each competitor page:
+
+- Title tag (length and keywords)
+- Meta description
+- H1, H2, H3 structure
+- Keyword placement
+
+Ask:
+- Are they using exact keywords?
+- Are headings optimized?
+
+Find gaps and improve your on-page SEO.
+
+----------------------------------------
+STEP 9: ANALYZE INTERNAL LINKING
+----------------------------------------
+
+Use Screaming Frog or manual check.
+
+Look at:
+- How many internal links per page
+- Which pages they link to
+
+Strong internal linking improves rankings.
+
+Plan:
+Add more strategic internal links than competitors.
+
+----------------------------------------
+STEP 10: ANALYZE SCHEMA MARKUP
+----------------------------------------
+
+Use:
+- Google Rich Results Test
+
+Check if competitors use:
+- FAQ schema
+- Article schema
+- Local business schema
+
+If they are not using schema properly,
+you can gain advantage by implementing it.
+
+----------------------------------------
+STEP 11: ANALYZE CONTENT OPTIMIZATION
+----------------------------------------
+
+Use Surfer SEO or manual analysis.
+
+Check:
+- Keyword density
+- Semantic keywords
+- Readability
+
+Also observe:
+- Use of images
+- Use of videos
+- Content formatting
+
+Goal:
+Create content that is more engaging and optimized.
+
+----------------------------------------
+STEP 12: FIND CONTENT GAPS
+----------------------------------------
+
+Now compare all competitors.
+
+Ask:
+- What topics are they covering?
+- What topics are missing?
+
+Find gaps where:
+- No competitor has strong content
+- You can rank easily
+
+Create content for those topics.
+
+----------------------------------------
+STEP 13: FINAL STRATEGY
+----------------------------------------
+
+After analyzing all competitors:
+
+1. Target their best keywords
+2. Build backlinks from similar sources
+3. Create better content than them
+4. Improve page speed and UX
+5. Use schema for better visibility
+6. Strengthen internal linking
+
+----------------------------------------
+FINAL GOAL
+----------------------------------------
+
+By doing this competitor analysis:
+
+- You understand why competitors rank
+- You find weak points to beat them
+- You build a strong SEO strategy
+- You increase your chances of ranking faster
+
+========================================
+END OF DOCUMENT
+========================================

@@ -1,0 +1,164 @@
+PLAGIARISM CHECK GUIDE (SEO CONTENT)
+========================================
+
+This document explains how to check plagiarism in content
+and ensure your content is 100% unique and SEO-friendly.
+
+Plagiarism means copying content from other websites.
+Google does not rank duplicate content, so uniqueness is very important.
+
+----------------------------------------
+STEP 1: UNDERSTAND PLAGIARISM
+----------------------------------------
+
+Plagiarism happens when:
+- You copy content directly from another website
+- You slightly modify sentences but keep the same structure
+- You reuse content without adding value
+
+Types of plagiarism:
+1. Direct plagiarism (copy-paste)
+2. Partial plagiarism (rewriting small parts)
+3. Duplicate content (same content on multiple pages)
+
+Goal:
+Always create original and unique content.
+
+----------------------------------------
+STEP 2: WHEN TO CHECK PLAGIARISM
+----------------------------------------
+
+Always check plagiarism:
+
+- Before publishing a blog post
+- After rewriting competitor content
+- After using AI-generated content
+- When updating old articles
+
+Goal:
+Ensure content is unique before it goes live.
+
+----------------------------------------
+STEP 3: PLAGIARISM CHECK TOOLS
+----------------------------------------
+
+Use these tools to check plagiarism:
+
+- SmallSEOTools
+- Quetext
+- Grammarly Plagiarism Checker
+- Copyscape
+
+How to use:
+- Copy your content
+- Paste it into the tool
+- Run the plagiarism scan
+
+----------------------------------------
+STEP 4: ANALYZE THE RESULTS
+----------------------------------------
+
+After scanning, check the plagiarism percentage.
+
+Guidelines:
+- 0% – 5% → Excellent (fully unique)
+- 5% – 10% → Acceptable (minor matches)
+- 10%+ → Needs improvement
+
+Also check:
+- Highlighted copied sentences
+- Source websites
+
+Goal:
+Identify which parts need rewriting.
+
+----------------------------------------
+STEP 5: FIX PLAGIARIZED CONTENT
+----------------------------------------
+
+If plagiarism is found, rewrite the content.
+
+How to rewrite:
+- Change sentence structure
+- Use your own words
+- Add new information
+- Expand explanations
+
+Example:
+
+Original:
+"SEO is important for website ranking."
+
+Rewritten:
+"Search Engine Optimization helps improve your website’s visibility in search results."
+
+Important:
+Do NOT just replace words — completely rephrase the sentence.
+
+----------------------------------------
+STEP 6: ADD VALUE TO CONTENT
+----------------------------------------
+
+To make content unique:
+
+- Add examples
+- Add case studies
+- Include FAQs
+- Share your own insights
+- Add updated information
+
+Goal:
+Make your content better than competitors.
+
+----------------------------------------
+STEP 7: CHECK DUPLICATE CONTENT ON YOUR SITE
+----------------------------------------
+
+Sometimes duplication happens within your own website.
+
+Check:
+- Similar blog posts
+- Repeated service page content
+
+Fix:
+- Merge similar content
+- Use canonical tags
+- Rewrite duplicate sections
+
+----------------------------------------
+STEP 8: FINAL QUALITY CHECK
+----------------------------------------
+
+Before publishing:
+
+- Recheck plagiarism
+- Check grammar (Grammarly)
+- Ensure readability
+- Confirm keyword optimization
+
+Goal:
+Publish high-quality and unique content.
+
+----------------------------------------
+STEP 9: SEO BEST PRACTICES
+----------------------------------------
+
+- Always write original content
+- Avoid copying competitors
+- Use plagiarism tools regularly
+- Focus on user value, not just keywords
+
+----------------------------------------
+FINAL RESULT
+----------------------------------------
+
+If you follow this process:
+
+- Your content will be 100% unique
+- Google rankings will improve
+- You avoid penalties from duplicate content
+- Your website gains authority and trust
+
+========================================
+END OF DOCUMENT
+========================================
