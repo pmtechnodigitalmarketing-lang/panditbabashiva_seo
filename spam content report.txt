@@ -1,0 +1,42 @@
+SEO Content Issues & Update Requirements
+
+Summary:
+During the SEO audit, multiple content issues were identified across service pages. These need to be fixed to improve rankings, avoid spam signals, and enhance content quality.
+
+Key Issues:
+
+1. Keyword Over-Optimization
+- Repeated use of similar keywords (e.g., negative energy, healing, emotional imbalance)
+- Content appears over-optimized and unnatural
+
+2. Repetitive Content
+- Multiple pages have similar structure and wording
+- Low uniqueness across pages (Health, Spiritual, Relationship, etc.)
+
+3. Low Content Value
+- Generic and repetitive sentences
+- Lack of meaningful or actionable insights
+
+4. Lack of Expertise (E-E-A-T)
+- Missing astrology-specific details (planets, houses, dashas)
+- No strong trust signals or disclaimers
+
+5. Weak FAQ Sections
+- Generic questions
+- Not targeting long-tail or search intent keywords
+
+6. Image ALT Over-Optimization
+- Keyword-stuffed ALT tags
+
+Required Actions:
+
+- Rewrite content to make each page unique
+- Reduce keyword repetition
+- Add specific astrology insights (Moon, Venus, Saturn, Rahu, houses, etc.)
+- Improve headings and structure
+- Optimize FAQ sections with targeted keywords
+- Add disclaimer for trust and compliance
+- Use natural, user-focused language instead of SEO-heavy content
+
+Note:
+Refer to the attached detailed document for complete explanation and examples.
