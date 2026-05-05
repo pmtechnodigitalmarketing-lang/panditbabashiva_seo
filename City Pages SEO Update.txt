@@ -1,0 +1,52 @@
+ City Pages SEO Update – Implementation Guide
+
+ Project: Pandit Baba Shiva Website
+ Task: City Page Optimization (Content + Reviews)
+
+
+ Objective
+Improve SEO performance, indexing, and user trust by:
+- Creating unique content for each city page
+- Adding real-style Google reviews/testimonials
+- Matching competitor-level page quality
+
+---
+ 1. City Page Content Update
+
+Requirements:
+- Each city page must have **100% unique content**
+- No duplicate paragraphs across pages
+- Minimum **1000–1500 words per page**
+
+ Content Structure:
+1. H1 – Service + City  
+   Example:  
+   `Black Magic Removal in Boston`
+
+2. Introduction  
+   - Mention city-specific problems
+   - Natural keyword usage
+
+3. Main Content Sections:
+   - Problem explanation (city-based context)
+   - Astrology/spiritual solution
+   - Benefits of service
+   - Why choose us
+
+4. Keyword Usage:
+   - Use primary keyword 5–7 times naturally
+   - Avoid keyword stuffing
+
+---
+ 2. Google Reviews / Testimonials Section
+ Add Section:
+Heading:  
+`What People Say About Pandit Baba Shiva`
+
+Structure:
+- Reviewer Name
+- Star Rating (★★★★★)
+- Review Text
+- Time (e.g., 1 month ago)
+
+Example:
